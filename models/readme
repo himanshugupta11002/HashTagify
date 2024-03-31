@@ -1,1 +1,4 @@
-
+Download 
+1. detection model: YOLOv5
+2. Classification model :resnet50
+3. captioning model : https://huggingface.co/nlpconnect/vit-gpt2-image-captioning
