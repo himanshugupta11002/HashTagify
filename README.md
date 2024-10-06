@@ -1,3 +1,7 @@
+***HashTagify***
+
+
+
 Flask-based web application that utilizes a combination of deep learning models for object detection, classification, and natural language processing (NLP) for image captioning. Here's a summary of the key components and functionalities:
 
 1. **Flask Application**: Flask is a micro web framework for Python used to develop web applications. It provides tools, libraries, and technologies for building web applications.
